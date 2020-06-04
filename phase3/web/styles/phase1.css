@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 23, 2019, 8:33:10 PM
+    Author     : milesforet
+*/
+
+h2 {
+    color: darkcyan;
+}
+
+table{
+    border-collapse: collapse;
+    width: 65%;
+}
+
+.price{
+    text-align: right;
+}
+
+td, th {
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+}
+
+label {
+    float: left;
+    width: 7em;
+    margin-bottom: 10px;
+    display: inline-block;
+    clear: left;
+    text-align: left;
+}
+input {
+    width: 133px;
+    margin-bottom: 10px;
+}
+input[type=submit]{
+    width: 100px !important;
+    float:right;
+    padding:0;
+}
+
+.submitbutton {
+    float: right;
+}
+
+.bodyclass {
+    display: inline-block;
+}
+
+.column {
+  float: left;
+  margin-right: 30px;
+}
+.row{
+    display: inline-block;
+    
+}
+.buttoncd {
+    float:left;
+}
